@@ -2,6 +2,16 @@ body {
     overflow-x: hidden;
 }
 
+#header {
+	height: 400px;
+	padding-top: 250px;
+	background-color: #36454f;
+}
+
+#main-content {
+	height: 700px;
+}
+
 .navbar {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
